@@ -1,1 +1,2 @@
 theoneste likes to study so much 
+How to pull and push on git and github
