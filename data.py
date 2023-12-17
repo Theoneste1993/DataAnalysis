@@ -8,3 +8,6 @@ mean_value = statistics.mean(x)
 print("Mean:", mean_value)
 ### How to learn  new thing 
 import statistics 
+import numpy as pd
+import pandas  as np
+
